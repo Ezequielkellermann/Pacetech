@@ -1,0 +1,4 @@
+exerciciosemana7/aluno.java
+ exerciciosemana7.aluno
+exerciciosemana7/Main.java
+ exerciciosemana7.Main
