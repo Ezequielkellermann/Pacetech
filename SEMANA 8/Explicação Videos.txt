@@ -1,0 +1,5 @@
+Olá,
+
+Gravei alguns videos com outros layout's de calculadora que fiz testando alguns componentes e animações diferentes.
+O projeto final fiz o layout sem animações e logos pois pelo que entendi por se tratar de uma imagem carregada de forma local (do meucomputador), o layout ao ser importado em outro computador por vezes 
+se apresenta de forma desconfigurada pois não encontra a imagem utilizada no layout.
